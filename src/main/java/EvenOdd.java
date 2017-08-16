@@ -5,8 +5,11 @@ public class EvenOdd {
 
 	public boolean getTrueOrFalse() {
 		if ((number % 2) == 0) {
+		}
 
+		else {
 		}
 		return true;
+
 	}
 }
